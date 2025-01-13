@@ -1,0 +1,25 @@
+# Simple Calculator 🧮
+
+A simple console-based calculator for performing basic arithmetic operations.
+
+## 📋 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero-division check)
+
+## 🚀 Quick Start
+1. Make sure you have Python (3.6 or higher) installed.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/simple-calculator.git
+3. Run the script:
+python calculator.py
+4. Follow the console instructions to perform operations.
+
+Simple Calculator
+Select an operation: +, -, *, /
+Enter operation: +
+Enter first number: 10
+Enter second number: 20
+Result: 30.0
